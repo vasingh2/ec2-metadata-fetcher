@@ -1,5 +1,5 @@
-# AWS Metadata Fetcher
-AWS metadata fetcher is to get the AWS EC2 metadata in the json format.
+# AWS EC2 Metadata Fetcher
+AWS EC2 metadata fetcher is to get the AWS EC2 metadata in the json format.
 
 ### Requirement
 1. Python Version Installed > 3.5
@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 
 ### Usage
 
-By default aws metadata fetcher will display output the complete metadata as Json object.
+By default aws ec2 metadata fetcher will display output the complete metadata as JSON object.
 ```python
 python3 awsMetadata.py
 ```
