@@ -1,1 +1,1 @@
-FROM snyk/broker:container-registry-agent
+FROM snyk/container-registry-agent
