@@ -1,0 +1,1 @@
+FROM snyk/broker:jira
