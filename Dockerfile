@@ -1,4 +1,1 @@
-FROM 3.8-buster
-COPY . .
-
-FROM ubuntu:20.04
+FROM snyk/broker:jira
